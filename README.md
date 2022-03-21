@@ -1,0 +1,2 @@
+# SpaceY-data-science-project
+Space Y that would like to compete with SpaceX founded by Billionaire industrialist Allon Musk. This project determines the price of each launch. It gathers information about Space X and creates dashboards for my team. The project also determines if SpaceX will reuse the first stage. Instead of using rocket science to determine if the first stage will land successfully,  I trained a machine learning model and used public information to predict if SpaceX will reuse the first stage.
